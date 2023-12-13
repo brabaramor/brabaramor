@@ -7,8 +7,6 @@ First of all, my pronouns are she/her (in Portuguese: ela/dela)
 
 🌱 I’m currently learning system and web development at UNISINOS university. I'm working professionally as a developer intern. It's been great doing it at all, because my best quality is that I love to study in all its meaning: take courses, read and pratice and do practical challenges, and I understand only the job routine would give me the best experience on development.
 
-✍️ I'm currently doing a Database Administrator course at IF-RS (Instituto Federal do Rio Grande do Sul), because I did the Database Fundaments course at IF-RS and at the university and I really liked learning about that. 
-
 🖥️ So far, I've coded some lines in markup, style sheet and programming languages like these and also in SQL tools:
 
 <div align="middle">
