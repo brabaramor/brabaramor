@@ -9,7 +9,7 @@ First of all, my pronouns are she/her (in Portuguese: ela/dela)
 
 ✍️ I'm currently doing a Database Administrator course at IF-RS (Instituto Federal do Rio Grande do Sul), because I did the Database Fundaments course at IF-RS and at the university and I really liked learning about that. 
 
-🖥️ So far, I've coded some lines in markup, style sheet and programming languages like:
+🖥️ So far, I've coded some lines in markup, style sheet and programming languages like these and also in SQL tools:
 
 <div align="middle">
 <p>
@@ -17,17 +17,14 @@ First of all, my pronouns are she/her (in Portuguese: ela/dela)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" "/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 </p>
-</div>
-
-💗 And also in my favorites languagens and SQL tools:
-
-<div align="middle">
-<p>
+          <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" />
 </p>
-</div>          
+</div>
+
+      
           
 🍭 Fun fact:
 저는 한국어 조금 말합니다. 왜냐면 나는 13살 때부터 오늘까지 케이팝을 너어어어무 좋아합니다!
